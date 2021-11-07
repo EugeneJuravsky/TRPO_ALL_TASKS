@@ -1,0 +1,4 @@
+﻿  3.cpp
+A:\C++\TRPO_Task_3\3\Project1\3.cpp(9,13): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+A:\C++\TRPO_Task_3\3\Project1\3.cpp(13,12): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+  Project1.vcxproj -> A:\C++\TRPO_Task_3\3\Project1\Debug\Project1.exe

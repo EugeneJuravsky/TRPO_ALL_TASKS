@@ -1,0 +1,4 @@
+﻿  1.cpp
+A:\C++\TRPO_Task_3\1\Project1\1.cpp(25,43): warning C4101: perimeter: неиспользованная локальная переменная
+A:\C++\TRPO_Task_3\1\Project1\1.cpp(25,35): warning C4101: square: неиспользованная локальная переменная
+  Project1.vcxproj -> A:\C++\TRPO_Task_3\1\Project1\Debug\Project1.exe

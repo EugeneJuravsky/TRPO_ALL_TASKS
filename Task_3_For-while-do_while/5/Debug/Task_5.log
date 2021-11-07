@@ -1,0 +1,4 @@
+﻿  Source.cpp
+A:\C++\TRPO_Task_3\5\Project1\Source.cpp(36,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+A:\C++\TRPO_Task_3\5\Project1\Source.cpp(48,40): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+  Task_5.vcxproj -> A:\C++\TRPO_Task_3\5\Project1\Debug\Task_5.exe

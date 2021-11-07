@@ -1,0 +1,2 @@
+A:\C++\TRPO_Task_4_Matrix\Task1_PrintMatrix\Debug\Task1_PrintMatrix.exe
+A:\C++\TRPO_Task_4_Matrix\Debug\Task1_PrintMatrix.exe

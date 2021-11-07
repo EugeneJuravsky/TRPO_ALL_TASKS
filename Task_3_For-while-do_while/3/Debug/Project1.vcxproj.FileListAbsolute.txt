@@ -1,0 +1,2 @@
+A:\C++\TRPO_Tasks\3\Project1\Debug\Project1.exe
+A:\C++\TRPO_Task_3\3\Project1\Debug\Project1.exe
