@@ -1,0 +1,6 @@
+﻿  Source.cpp
+A:\C++\TRPO_ALL_TASKS\Task_5_Function\Done\Source.cpp(70,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+A:\C++\TRPO_ALL_TASKS\Task_5_Function\Done\Source.cpp(83,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+A:\C++\TRPO_ALL_TASKS\Task_5_Function\Done\Source.cpp(101,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+A:\C++\TRPO_ALL_TASKS\Task_5_Function\Done\Source.cpp(117,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Done.vcxproj -> A:\C++\TRPO_ALL_TASKS\Task_5_Function\Done\Debug\Done.exe
