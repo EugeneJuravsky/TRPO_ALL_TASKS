@@ -1,12 +1,30 @@
 #include <iostream>
 using namespace std;
-
+void Years(int& year);
+void InputTheYear(int& year);
+void ToDooze(int& dooze, int year);
+void OutputTheAnimal(string animal);
+string AnimalOfYear(int dooze);
 int main()
 {
 	int year, dooze;
 
-	cout <<"Введите год\n";
+	InputTheYear(year);
+	Years(year);
+	ToDooze(dooze, year);
+	OutputTheAnimal( AnimalOfYear(dooze) );
+}
+
+void OutputTheAnimal(string animal) {
+	cout << animal;
+}
+
+void InputTheYear(int& year){
+	cout << "Введите год\n";
 	cin >> year;
+}
+
+void Years(int& year) {
 
 	if (year >= 1900)
 	{
@@ -21,50 +39,53 @@ int main()
 		year = year - 1900;
 	}
 
-		dooze = year % 12;
+}
+
+void ToDooze(int& dooze, int year) {
+	dooze = year % 12;
+}
+
+string AnimalOfYear(int dooze) {
 
 	switch (dooze)
 	{
-	case 0: 
-		cout << "Крысы";
+	case 0:
+		return "Крысы";
 		break;
 	case 1:
-		cout << "Бык";
+		return  "Бык";
 		break;
 	case 2:
-		cout << "Тигр";
+		return "Тигр";
 		break;
 	case 3:
-		cout << "Кот";
+		return "Кот";
 		break;
 	case 4:
-		cout << "Дракон";
+		return "Дракон";
 		break;
 	case 5:
-		cout << "Змея";
+		return "Змея";
 		break;
 	case 6:
-		cout << "Лошадь";
+		return "Лошадь";
 		break;
 	case 7:
-		cout << "Коза";
+		return "Коза";
 		break;
 	case 8:
-		cout << "Обезьяна";
+		return "Обезьяна";
 		break;
 	case 9:
-		cout << "Петух";
+		return "Петух";
 		break;
 	case 10:
-		cout << "Собака";
+		return "Собака";
 		break;
 	case 11:
-		cout << "Свинья";
+		return "Свинья";
 		break;
 	}
-	
-	
-	cout << endl;
-	system("pause");
-	return 0;
+
 }
+
