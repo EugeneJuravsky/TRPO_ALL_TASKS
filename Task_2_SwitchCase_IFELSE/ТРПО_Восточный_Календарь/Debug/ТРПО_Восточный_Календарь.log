@@ -1,1 +1,3 @@
-﻿  ТРПО_Восточный_Календарь.vcxproj -> A:\C++\TRPO_ALL_TASKS\Task_2_SwitchCase_IFELSE\ТРПО_Восточный_Календарь\Debug\ТРПО_Восточный_Календарь.exe
+﻿  Source.cpp
+A:\C++\TRPO_ALL_TASKS\Task_2_SwitchCase_IFELSE\ТРПО_Восточный_Календарь\Source.cpp(90): warning C4715: AnimalOfYear: значение возвращается не при всех путях выполнения
+  ТРПО_Восточный_Календарь.vcxproj -> A:\C++\TRPO_ALL_TASKS\Task_2_SwitchCase_IFELSE\ТРПО_Восточный_Календарь\Debug\ТРПО_Восточный_Календарь.exe
