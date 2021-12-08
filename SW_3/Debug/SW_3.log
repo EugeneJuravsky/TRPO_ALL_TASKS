@@ -1,0 +1,4 @@
+﻿  Source.cpp
+A:\C++\TRPO_ALL_TASKS\SW_3\Source.cpp(104,12): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+A:\C++\TRPO_ALL_TASKS\SW_3\Source.cpp(106,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  SW_3.vcxproj -> A:\C++\TRPO_ALL_TASKS\SW_3\Debug\SW_3.exe
